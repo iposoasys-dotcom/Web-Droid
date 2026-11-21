@@ -13,7 +13,7 @@ use crate::android::error::Result;
 /// invoke-statics `Lnekodroid/Hle;.println(Ljava/lang/String;)V`.
 pub fn build_hello_dex() -> Result<Vec<u8>> {
     let mut b = DexBuilder::new();
-    let s_hello = b.string("Hello from NekoDroid");
+    let s_hello = b.string("Hello from WebDroid");
     let s_main = b.string("main");
     let s_init = b.string("<init>");
     let s_println = b.string("println");

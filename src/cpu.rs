@@ -1,4 +1,4 @@
-// ── nekodroid: ARMv7 CPU Emulator Core ─────────────────────────────────
+// ── WebDroid: ARMv7 CPU Emulator Core ─────────────────────────────────
 //
 // RegisterFile: 16 general-purpose registers + CPSR
 // Cpu: owns RegisterFile + Mmu, orchestrates execution

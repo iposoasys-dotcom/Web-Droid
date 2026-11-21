@@ -1,4 +1,4 @@
-//! Android APK / DEX HLE runtime for nekodroid (browser Wasm).
+//! Android APK / DEX HLE runtime for WebDroid (browser Wasm).
 
 pub mod apk;
 pub mod axml;

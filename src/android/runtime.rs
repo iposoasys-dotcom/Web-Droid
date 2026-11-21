@@ -106,7 +106,7 @@ mod tests {
         assert!(rt.vm.halted);
         let logs = rt.logs_text();
         assert!(
-            logs.contains("Hello from NekoDroid"),
+            logs.contains("Hello from WebDroid"),
             "logs were: {logs}"
         );
     }

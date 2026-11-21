@@ -1,4 +1,4 @@
-// ── nekodroid: ARMv7 Memory Management Unit ────────────────────────────
+// ── WebDroid: ARMv7 Memory Management Unit ────────────────────────────
 //
 // Flat byte-addressable RAM with little-endian read/write operations.
 // Includes Memory-Mapped I/O (MMIO) for hardware peripherals.
